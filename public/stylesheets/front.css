@@ -1,0 +1,107 @@
+body {
+  margin: 0px;
+  background: #c0e4e4 url(/images/) no-repeat fixed center top;
+  font-family: Times New Roman, Arial;
+}
+
+p {
+  margin: 0px;
+}
+
+.top {
+  height: 42px;
+  line-height: 42px;
+  background-color: #92b8dd;
+  text-align: center;
+  padding: 5px 0px 10px 0px;
+  font-size: 20px;
+}
+.top img {
+  margin: 0px 0px -12px 10px;
+}
+
+.main {
+  width: 712px;
+  margin: 172px auto 126px auto;
+  background-color: white;
+  padding: 25px 34px 25px 34px;
+  position: relative;
+}
+.main h2 {
+  font-size: 44px;
+  color: #0085b9;
+  font-weight: normal;
+  margin: 0px;
+}
+.main img.headshot {
+  position: absolute;
+  right: 10px;
+  top: -144px;
+}
+.main .video_box {
+  margin: 45px 0px 50px 0px;
+}
+.main .intro {
+  margin: 0px 0px 0px 16px;
+}
+.main .intro h2 {
+  font-size: 30px;
+  color: black;
+  font-weight: normal;
+  margin: 0px;
+}
+
+.modalities_list ul {
+  float: left;
+  list-style-type: none;
+  line-height: 30px;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.modalities_list img {
+  float: left;
+  margin-left: 60px;
+}
+
+.modalities_list {
+  width: 500px;
+}
+
+.call_now {
+  padding: 50px 25px;
+  margin: 12px 0px 38px 0px;
+  background-color: #e5f9fa;
+}
+
+.call_now p {
+  margin-left: 130px;
+  max-width: 420px;
+}
+
+.call_now img {
+  float: left;
+}
+
+.reserve {
+  text-align: center;
+}
+
+.blue_callout {
+  background: #c0e4e4 url(/images/neck-pain.jpg) no-repeat center top;
+  height: 275px;
+  width: 605px;
+  margin: 24px auto 28px auto;
+}
+
+.blue_callout ul {
+  padding: 10px 0px 0px 40px;
+}
+
+.blue_callout li {
+  max-width: 520px;
+  line-height: 24px;
+  margin: 20px 0px;
+  font-size: 16px;
+  font-weight: bold;
+}

@@ -1,0 +1,1205 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/content_header_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/content_footer_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/footer_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:24) [GET]
+
+ActionController::RoutingError (No route matches "/images/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:34) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:41:37) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:22) [GET]
+
+ActionController::RoutingError (No route matches "/images/content_header_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:22) [GET]
+
+ActionController::RoutingError (No route matches "/images/content_footer_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:22) [GET]
+
+ActionController::RoutingError (No route matches "/images/footer_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:28) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:34) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:56) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:44:59) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:45:03) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:45:07) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:28) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:31) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:31) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+Rendering front/auntiedeborah
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing FrontController#images to ico (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+  Parameters: {"id"=>"favicon"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+  Parameters: {"id"=>"auntie_deborah_logo"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+  Parameters: {"id"=>"deborah_headshot"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+  Parameters: {"id"=>"YouTube_fake1"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to jpg (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+  Parameters: {"id"=>"Business Card"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:49) [GET]
+  Parameters: {"id"=>"YouTube_fake2"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to ico (for 127.0.0.1 at 2009-12-04 07:46:52) [GET]
+  Parameters: {"id"=>"favicon"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+Rendering front/auntiedeborah
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+  Parameters: {"id"=>"auntie_deborah_logo"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+  Parameters: {"id"=>"deborah_headshot"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+  Parameters: {"id"=>"YouTube_fake1"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to jpg (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+  Parameters: {"id"=>"Business Card"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:56) [GET]
+  Parameters: {"id"=>"YouTube_fake2"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+Rendering front/auntiedeborah
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+  Parameters: {"id"=>"auntie_deborah_logo"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+  Parameters: {"id"=>"deborah_headshot"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to jpg (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+  Parameters: {"id"=>"Business Card"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+  Parameters: {"id"=>"YouTube_fake1"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#images to png (for 127.0.0.1 at 2009-12-04 07:46:59) [GET]
+  Parameters: {"id"=>"YouTube_fake2"}
+
+ActionController::UnknownAction (No action responded to images. Actions: auntiedeborah and index):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:47:46) [GET]
+Rendering front/auntiedeborah
+Completed in 75ms (View: 74, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:47:46) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:47:59) [GET]
+Rendering front/auntiedeborah
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:47:59) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:48:01) [GET]
+Rendering front/auntiedeborah
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:48:02) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:48:03) [GET]
+Rendering front/auntiedeborah
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:48:03) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:48:06) [GET]
+Rendering front/auntiedeborah
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:48:06) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:48:10) [GET]
+Rendering front/auntiedeborah
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:48:10) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:55:57) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.3ms)
+Rendered front/_call_now (0.6ms)
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:55:57) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:56:23) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (1.6ms)
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:56:23) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:57:01) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.7ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:57:01) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:57:16) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.2ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:57:16) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:59:04) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.0ms)
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 07:59:45) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.5ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.2ms)
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 07:59:45) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:00:08) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:00:08) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:00:21) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:00:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:00:34) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:00:34) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:00:44) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:01:03) [GET]
+Rendering front/auntiedeborah
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:01:03) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:02:06) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:02:06) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:03:16) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:03:16) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:03:32) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.3ms)
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:03:32) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:04:03) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:04:04) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:04:21) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.8ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:04:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:04:33) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:04:33) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:04:58) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:04:58) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:05:10) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:05:10) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:05:48) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:05:48) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:06:28) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.3ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:06:28) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:09:17) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:09:17) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:12:14) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.4ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:12:14) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:13:22) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:13:22) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:13:49) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:13:49) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:14:31) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.2ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:14:31) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:15:04) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:15:04) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:15:45) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:15:45) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:16:11) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:16:11) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:16:57) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.3ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:16:58) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:17:23) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:17:23) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:17:34) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:17:35) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:17:38) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:17:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:17:48) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:17:49) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:17:57) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:17:57) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:18:13) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:18:13) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:18:18) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:18:18) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:18:49) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:18:49) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:19:11) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:19:11) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:19:38) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:19:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:19:50) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:19:50) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:19:53) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:19:53) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:20:12) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.2ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:20:12) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:20:34) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:20:35) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:20:57) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:20:57) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FrontController#auntiedeborah (for 127.0.0.1 at 2009-12-04 08:21:12) [GET]
+Rendering front/auntiedeborah
+Rendered front/_call_now (0.2ms)
+Rendered front/_reserve_my_place (0.1ms)
+Rendered front/_call_now (0.1ms)
+Rendered front/_reserve_my_place (0.1ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/front/auntiedeborah]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-04 08:21:12) [GET]
+
+ActionController::RoutingError (No route matches "/images/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
