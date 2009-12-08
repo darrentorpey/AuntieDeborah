@@ -2,9 +2,13 @@ Capfile
 *.tmproj
 tmp
 db/schema.rb
-vendor/plugins/acts_as_solr/solr/solr/data
 *_js.js
 *_css.css
+flex/src/*.cache
 nbproject
 .DS_Store
 .project
+coverage
+lib/memcache_util.rb
+debug.log
+log/*

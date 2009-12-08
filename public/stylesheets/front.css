@@ -1,11 +1,42 @@
 body {
   margin: 0px;
-  background: #c0e4e4 url(/images/) no-repeat fixed center top;
+  background: #c0e4e4 url(/images/hawaii_background.jpg) repeat-y center top;
   font-family: Times New Roman, Arial;
 }
 
 p {
   margin: 0px;
+  font-size: 15px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.main_nav a {
+  color: black;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.main_nav .links {
+  width: 200px;
+  display: inline;
+  margin-right: 440px;
+}
+
+.main_nav a:hover {
+  text-decoration: underline;
+}
+
+.main h2.trans_special {
+  color: white;
+  font-size: 160px;
+  font-weight: bold;
+  position: absolute;
+  top: -124px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
 .top {
@@ -24,7 +55,7 @@ p {
   width: 712px;
   margin: 172px auto 126px auto;
   background-color: white;
-  padding: 25px 34px 25px 34px;
+  padding: 25px 41px 25px 41px;
   position: relative;
 }
 .main h2 {
@@ -54,7 +85,7 @@ p {
 .modalities_list ul {
   float: left;
   list-style-type: none;
-  line-height: 30px;
+  line-height: 34px;
   text-decoration: underline;
   font-size: 20px;
 }
@@ -69,7 +100,7 @@ p {
 }
 
 .call_now {
-  padding: 50px 25px;
+  padding: 30px 25px;
   margin: 12px 0px 38px 0px;
   background-color: #e5f9fa;
 }
@@ -77,6 +108,19 @@ p {
 .call_now p {
   margin-left: 130px;
   max-width: 420px;
+  color: #0085B9;
+}
+
+.call_now p.one {
+  margin: 0px 0px 0px 130px;
+  font-size: 22px;
+}
+
+.call_now p.two {
+  margin-left: 130px;
+  max-width: 520px;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .call_now img {
@@ -85,13 +129,14 @@ p {
 
 .reserve {
   text-align: center;
+  margin: 0px 0px 0px 0x;
 }
 
 .blue_callout {
   background: #c0e4e4 url(/images/neck-pain.jpg) no-repeat center top;
   height: 275px;
   width: 605px;
-  margin: 24px auto 28px auto;
+  margin: 24px 0px 28px 26px;
 }
 
 .blue_callout ul {
@@ -105,3 +150,87 @@ p {
   font-size: 16px;
   font-weight: bold;
 }
+
+.emphasize_small {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 16px 0px;
+  font-family: Arial;
+}
+
+.special_callout {
+  font-weight: bold;
+  width: 518px;
+  margin: 0px 0px 40px 42px;
+}
+
+.quotes {
+  margin: 0px 0px 40px 42px;
+}
+
+.quotes p {
+  font-size: 22px;
+  color: #30566b;
+}
+
+.quotes ul {
+  list-style-type: none;
+}
+
+.quotes ul li {
+  margin: 40px 0px;
+}
+
+.quotes ul li p {
+  font-size: 20px;
+  margin: 4px 0px;
+}
+
+.quotes ul li .text {
+  margin: 0px 0px;
+  font-style: italic;
+}
+
+.quotes ul li .attribution {
+  font-size: 14px;
+}
+
+.section2 {
+  margin-left: 32px;
+}
+
+.section2 h2 {
+  margin: 40px 0px 10px 0px;
+  font-size: 32px;
+}
+
+p.first_callout {
+  margin: 20px 0px;
+  font-size: 18px
+}
+
+.section2 p {
+  margin: 15px 0px;
+}
+
+.section2 p.blue_bold {
+  font-weight: bold;
+  color: #0085B9;
+  font-size: 16px;
+}
+
+.section2 .highlight {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.note {
+  color: red;
+}
+
+
+
+
+
+

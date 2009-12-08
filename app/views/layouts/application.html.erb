@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="sacred wave, sacredwave, healing, immersion, therapy, spiritual" />
+  <meta name="description" content="AquaCranial® Therapy is a sacred baptism which acknowledges the gifts of nature, profoundly supports emotional release work, and potentiates self-discovery" />
+
+  <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+  <title>AuntieDeborah.com</title>
+
+  <%= javascript_include_tag :defaults %>
+  <%= stylesheet_link_tag 'front' %>
+</head>
+<body>
+  <div class="top">
+    <% top_navs = [
+      ['Home', root_path],
+      ['About', about_path]
+    ] %>
+    <!-- 'Sessions' => , 'Free Healing Tips', 'Courses', 'Contact' -->
+    <div class="main_nav">
+      <div class="links">
+        <%= top_navs.collect { |set| link_to set.first, set.last }.join(' | ') %>
+      </div>
+      <img src="/images/auntie_deborah_logo.png" />
+    </div>
+  </div>
+
+  <div class="main">
+    <%= yield(:content) or yield %>
+  </div>
+</body>
+</html>

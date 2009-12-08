@@ -6,4 +6,9 @@ class FrontController < ApplicationController
   def auntiedeborah
     
   end
+
+  def about
+    
+  end
+
 end
