@@ -229,8 +229,39 @@ p.first_callout {
   color: red;
 }
 
+.cost_table {
+  
+}
 
+.cost_table th {
+  background-color: #d9eef3;
+}
 
+.cost_table th.frequency {
+  width: 88px;
+}
+
+.cost_table th.total_sessions {
+  width: 76px;
+}
+
+.cost_table th.per_session {
+  width: 106px;
+}
+
+.cost_table th.normal_price {
+  width: 82px;
+}
+
+.cost_table th.special_offer {
+  width: 64px;
+  background-color: #007c00;
+}
+
+.cost_table th.savings {
+  width: 90px;
+  background-color: #ff1700;
+}
 
 
 

@@ -1,0 +1,15 @@
+--- 
+  - title: AQ Introduction
+    frequency_per_week: 1
+    total_sessions: 3
+    price_per_session: 498
+    price_package: 1495
+    price_special: 895
+    price_savings: 600
+  - title: AQ Deepening
+    frequency_per_week: 1
+    total_sessions: 4
+    price_per_session: 456
+    price_package: 1825
+    price_special: 1095
+    price_savings: 730
