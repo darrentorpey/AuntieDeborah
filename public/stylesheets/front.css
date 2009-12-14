@@ -83,12 +83,17 @@ p {
   margin: 0px;
 }
 
+.modalities_list {
+  padding: 20px 0px;
+}
+
 .modalities_list ul {
   float: left;
   list-style-type: none;
   line-height: 34px;
   text-decoration: underline;
   font-size: 20px;
+  margin: 0px;
 }
 
 .modalities_list img {
