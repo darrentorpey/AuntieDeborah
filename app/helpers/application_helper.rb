@@ -3,4 +3,8 @@ module ApplicationHelper
   def clearing_div
     content_tag(:div, '', :style => 'clear: both')
   end
+
+  def page_title
+    @page_title || 'AuntieDeborah.com'
+  end
 end

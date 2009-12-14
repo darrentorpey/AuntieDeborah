@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background: #c0e4e4 url(/images/hawaii_background.jpg) repeat-y center top;
+  background: #c0e4e4 url(/images/hawaii_background.jpg) no-repeat fixed center top;
   font-family: Times New Roman, Arial;
 }
 
@@ -231,6 +231,11 @@ p.first_callout {
 
 .cost_table {
   
+}
+
+.cost_table td {
+  padding: 0px 4px 0px 4px;
+  text-align: center;
 }
 
 .cost_table th {

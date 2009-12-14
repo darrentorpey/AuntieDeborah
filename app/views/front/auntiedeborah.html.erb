@@ -120,30 +120,7 @@
 
     <div class="pricing_table">
       <h3>Life healing series with AquaCranial&reg; Therapy</h3>
-      <table cellspacing="0" cellpadding="0" border="1" class="cost_table">
-        <thead>
-          <th></th>
-          <th class="frequency">Frequency</th>
-          <th class="total_sessions">Total Sessions</th>
-          <th class="per_session">Cost per Session</th>
-          <th class="normal_price">Normal Price</th>
-          <th class="special_offer">Special Offer</th>
-          <th class="savings">SAVINGS!</th>
-        </thead>
-        <% @programs = YAML.load_file(File.join(RAILS_ROOT, 'config', 'programs.yml')).collect { |prog| OpenStruct.new(prog) } %>
-        <tbody>
-          <% @programs.each_with_index do |program, index| %>
-            <% content_tag :tr do %>
-              <%= content_tag :td, "##{index + 1} #{program.title}" %>
-              <%= content_tag :td, "#{program.frequency_per_week}x/wk" %>
-              <%= content_tag :td, program.total_sessions %>
-              <% %w{price_per_session price_package price_special price_savings}.each do |att| %>
-                <%= content_tag :td, "$#{program.send(att)}" %>
-              <% end %>
-            <% end %>
-          <% end %>
-        </tbody>
-      </table>
+      <%= render_cell :pricing_table, :short_table, :programs => YAML.load_file(File.join(RAILS_ROOT, 'config', 'programs_aq.yml')).collect { |prog| OpenStruct.new(prog) } %>
     </div>
 
     <div class="pricing_table">
