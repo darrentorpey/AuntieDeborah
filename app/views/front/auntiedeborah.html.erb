@@ -14,7 +14,7 @@
   <div class="intro">
     <h2>Aloha dear Friend,</h2>
     <p class="first_callout">Greetings from the Garden Island of Kauai. My name is Deborah Burnham.</p>
-    <p>I have dedicated my life to supporting people to heal from challenging painful ailments and injuries. For the last 40 years, I have been fully committed to the in-depth study and application of the world's most advanced healing modalities. During my work as a PT, I have assited hundreds of people with pain to transform their life and achieve wondrous wellbeing.</p>
+    <p>I have dedicated my life to supporting people to heal from challenging painful ailments and injuries. For the last 40 years, I have been fully committed to the in-depth study and application of the world's most advanced healing modalities. During my work as a PT, I have assisted hundreds of people with pain to transform their life and achieve wondrous wellbeing.</p>
     <p class="emphasize_small">I'd like to offer you a new way to experience relief from your aches and pains and empower you to enjoy new levels of health and well-being.<p>
     <p>If you are tired of being in discomfort and looking for a therapy that really works, you are in the right place!</p>
   </div>
@@ -25,7 +25,7 @@
       <li>Perhaps you doubt anyone will take the time to listen to what you have learned about your body, and be able to help you really get to the core of what needs to change for healing to naturally arise.</li>
     </ul>
   </div>
-  <p class="special_callout">I know how frustrating and life-restricting these ailments can be and I am passionate about helping you to overcome whatever is distrubing you and compromising your quality of life.</p>
+  <p class="special_callout">I know how frustrating and life-restricting these ailments can be and I am passionate about helping you to overcome whatever is disturbing you and compromising your quality of life.</p>
 
   <div class="quotes">
     <p>Here are a few experiences from some of my clients:</p>
@@ -106,13 +106,13 @@
   
     <p>Therefore, for your benefit, I have developed various healing packages to meet your needs.</p>
   
-    <p><span class="note">Note:</span> Each situation is unique, so pricing and the constituents of your <em><strong>life healing package</strong></em> can be taylored to suit your needs.</p>
+    <p><span class="note">Note:</span> Each situation is unique, so pricing and the constituents of your <em><strong>life healing package</strong></em> can be tailored to suit your needs.</p>
 
     <h2>Your <em>Life Healing Packages</em></h2>
 
     <p class="first_callout">Hundreds of people have experienced that a series of sessions is more valuable and effective than occasional, single sessions. A Life Healing series is a healing immersion.</p>
 
-    <p>For this reason, I have carefully created a variety of healing packages to suit you. By experiencing a series, you recieve hundreds of dollars worth of savings.</p>
+    <p>For this reason, I have carefully created a variety of healing packages to suit you. By experiencing a series, you receive hundreds of dollars worth of savings.</p>
 
     <p><span class="note">Note:</span> As mentioned, I know you are an individual and I want to make sure YOU get the perfect package for your own specific healing.</p>
     <p>We can work out a specific package to suit your needs.</p>
@@ -120,7 +120,7 @@
     <%= render :partial => 'call_now' %>
 
     <p style="font-size: 18px; font-weight: bold; margin: 0px;">Below you will find a list of the basic life healing packages.</p>
-    <p style="margin: 2px 0px 0px 0px; font-size: 16px;">These packages and prices can be ammended to suit your needs.</p>
+    <p style="margin: 2px 0px 0px 0px; font-size: 16px;">These packages and prices can be amended to suit your needs.</p>
 
     <div class="pricing_table">
       <h3>Life healing series with AquaCranial&reg; Therapy</h3>
@@ -129,9 +129,7 @@
 
     <div class="pricing_table">
       <h3>Life healing series with CranioSacral Therapy&reg;</h3>
-      <table cellspacing="0" cellpadding="0">
-
-      </table>
+      <%= render_cell :pricing_table, :short_table, :programs => YAML.load_file(File.join(RAILS_ROOT, 'config', 'programs_cs.yml')).collect { |prog| OpenStruct.new(prog) } %>
     </div>
 
     <%#= render :partial => 'reserve_my_place' %>

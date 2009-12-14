@@ -1,6 +1,7 @@
 <div class="call_now">
   <%= image_tag 'phone.png' %>
   <p class="one">Discover which Life Healing Package is most suited to <em>your</em> needs.</p>
-  <p class="two"><em>CALL NOW</em> for a FREE CONSULTATION (808) 651-4534 (Hawaii Time -5 EST)</p>
+  <p class="two"><em>CALL NOW</em> for a FREE CONSULTATION<br/><span class="highlight">(808) 651-4534</span> (Hawaii Time -5 EST)</p>
+  <p class="two"><em>OR EMAIL</em> <span class="highlight"><%= mail_to 'aquacranial@gmail.com', nil, :replace_at => "_at_", :replace_dot => "_dot_", :class => "email", :style => 'text-decoration: none; color: #006FB9;' %></span></p>
   <%= clearing_div %>
 </div>

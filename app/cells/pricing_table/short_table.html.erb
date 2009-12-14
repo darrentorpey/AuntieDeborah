@@ -11,7 +11,7 @@
   <tbody>
     <% @programs.each_with_index do |program, index| %>
       <% content_tag :tr do %>
-        <%= content_tag :td, "##{index + 1} #{program.title}" %>
+        <%= content_tag :td, "##{index + 1} #{program.title}", :class => 'title' %>
         <%= content_tag :td, "#{program.frequency_per_week}x/wk" %>
         <%= content_tag :td, program.total_sessions %>
         <% %w{price_per_session price_package}.each do |att| %>

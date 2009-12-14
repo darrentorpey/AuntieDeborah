@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background: #c0e4e4 url(/images/hawaii_background.jpg) no-repeat fixed center top;
+  background: #92B8DD url(/images/hawaii_background.jpg) no-repeat fixed center top;
   font-family: Times New Roman, Arial;
 }
 
@@ -109,6 +109,11 @@ p {
   padding: 30px 25px;
   margin: 12px 0px 38px 0px;
   background-color: #e5f9fa;
+}
+
+.section2 .call_now .highlight {
+  font-style: normal;
+  color: #006FB9;
 }
 
 .call_now p {
@@ -235,13 +240,14 @@ p.first_callout {
   color: red;
 }
 
-.cost_table {
-  
+.cost_table .title {
+  font-weight: bold;
 }
 
 .cost_table td {
-  padding: 0px 4px 0px 4px;
-  text-align: center;
+  padding: 2px 4px 2px 8px;
+/*  text-align: center;*/
+  text-align: left;
 }
 
 .cost_table th {
