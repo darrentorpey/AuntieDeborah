@@ -18,7 +18,7 @@
           <%= content_tag :td, "$#{program.send(att)}" %>
         <% end %>
         <%= content_tag :td, "$#{program.price_special}", :class => 'special_offer' %>
-        <%= content_tag :td, "$#{program.price_savings}", :class => 'savings'  %>
+        <%= content_tag :td, "$#{program.price_package - program.price_special}", :class => 'savings'  %>
       <% end %>
     <% end %>
   </tbody>

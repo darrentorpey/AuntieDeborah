@@ -1,43 +1,37 @@
---- 
+---
   - title: CS Introduction
     frequency_per_week: 1
     total_sessions: 3
     price_per_session: 415
     price_package: 1245
     price_special: 745
-    price_savings: 500
   - title: CS Deepening
     frequency_per_week: 2
     total_sessions: 4
     price_per_session: 374
     price_package: 1495
     price_special: 895
-    price_savings: 600
   - title: CS Deepening
     frequency_per_week: 3
     total_sessions: 3
     price_per_session: 365
     price_package: 1095
-    price_special: 605
-    price_savings: 490
+    price_special: 595
   - title: CS Deepening
     frequency_per_week: 3
     total_sessions: 6
     price_per_session: 331
     price_package: 1985
     price_special: 1095
-    price_savings: 890
   - title: CS Deepening
     frequency_per_week: 4
     total_sessions: 4
     price_per_session: 306
     price_package: 1225
     price_special: 645
-    price_savings: 580
   - title: CS Immersion
     frequency_per_week: 5
     total_sessions: 5
     price_per_session: 275
     price_package: 1375
     price_special: 745
-    price_savings: 630

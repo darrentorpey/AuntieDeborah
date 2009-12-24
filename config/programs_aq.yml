@@ -1,43 +1,37 @@
---- 
+---
   - title: AQ Introduction
     frequency_per_week: 1
     total_sessions: 3
     price_per_session: 498
     price_package: 1495
     price_special: 895
-    price_savings: 600
   - title: AQ Deepening
     frequency_per_week: 2
     total_sessions: 4
     price_per_session: 456
     price_package: 1825
     price_special: 1095
-    price_savings: 730
   - title: AQ Deepening
     frequency_per_week: 3
     total_sessions: 3
     price_per_session: 445
     price_package: 1335
     price_special: 745
-    price_savings: 590
   - title: AQ Deepening
     frequency_per_week: 3
     total_sessions: 6
     price_per_session: 399
     price_package: 2395
     price_special: 1335
-    price_savings: 1060
   - title: AQ Deepening
     frequency_per_week: 4
     total_sessions: 4
     price_per_session: 371
     price_package: 1485
     price_special: 865
-    price_savings: 625
   - title: AQ Immersion
     frequency_per_week: 5
     total_sessions: 5
     price_per_session: 349
     price_package: 1745
     price_special: 995
-    price_savings: 750

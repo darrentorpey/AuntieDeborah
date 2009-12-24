@@ -9,6 +9,10 @@ p {
   font-size: 15px;
 }
 
+.text_center {
+  text-align: center;
+}
+
 .bold {
   font-weight: bold;
 }
@@ -34,7 +38,7 @@ p {
   font-size: 160px;
   font-weight: bold;
   position: absolute;
-  top: -124px;
+  top: -146px;
   left: 0px;
   font-family: sans-serif;
 }
@@ -117,7 +121,7 @@ p {
 }
 
 .call_now p {
-  margin-left: 130px;
+  margin-left: 150px;
   max-width: 420px;
   color: #0085B9;
 }
@@ -136,6 +140,7 @@ p {
 
 .call_now img {
   float: left;
+  margin-top: 53px;
 }
 
 .reserve {
@@ -246,7 +251,6 @@ p.first_callout {
 
 .cost_table td {
   padding: 2px 4px 2px 8px;
-/*  text-align: center;*/
   text-align: left;
 }
 
@@ -279,6 +283,3 @@ p.first_callout {
   width: 90px;
   background-color: #ff1700;
 }
-
-
-
